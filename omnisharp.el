@@ -32,7 +32,6 @@
 
 (require 'cl)
 (require 'cl-lib)
-(require 'csharp-mode)
 (require 'json)
 (require 'files)
 (require 'ido)
